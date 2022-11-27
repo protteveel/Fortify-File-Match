@@ -1,7 +1,7 @@
 # Fortify-File-Match
-Creates an overview of Fortify SCA configured and non-configured file extensions within a given directory.
+Creates an overview of Fortify SAST configured and non-configured file extensions within a given directory.
 
-Point it to a directory and it will provide an overview of the files that will be scanned by Fortify SCA.
+Point it to a directory and it will provide an overview of the files that will be scanned by Fortify SAST.
 
 ## Usage: 
 java -jar ./ScaFileMatch.jar <root directory>
